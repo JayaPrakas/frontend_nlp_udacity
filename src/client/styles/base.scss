@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    justify-content: center;
+    color: rgb(166, 201, 40);
+}
+
+main {
+    flex: 2;
+}
+
+section {
+    max-width: 400px;
+}
+
